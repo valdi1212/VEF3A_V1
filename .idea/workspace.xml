@@ -1,13 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0cfae97-7789-409f-a4ad-1d7c04e5532b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="" />
+    <list default="true" id="d0cfae97-7789-409f-a4ad-1d7c04e5532b" name="Default" comment="Uploading finished product(hopefully)">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/basic/assets/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/basic/assets/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/basic/assets/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/default/assets/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/default/assets/fonts/icons.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/default/assets/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/default/assets/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/default/assets/fonts/icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/default/assets/images/flags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/github/assets/fonts/octicons-local.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/github/assets/fonts/octicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/github/assets/fonts/octicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/accordion.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/accordion.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/ad.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/ad.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/api.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/breadcrumb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/breadcrumb.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/button.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/card.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/card.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/checkbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/checkbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/checkbox.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/checkbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/colorize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/colorize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/comment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/comment.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/container.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/container.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/dimmer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/dimmer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/dimmer.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/dimmer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/divider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/divider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/dropdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/dropdown.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/dropdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/embed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/embed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/embed.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/embed.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/feed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/feed.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/flag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/flag.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/form.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/form.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/header.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/icon.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/image.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/image.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/input.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/item.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/label.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/label.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/list.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/list.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/loader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/loader.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/menu.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/message.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/message.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/modal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/modal.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/modal.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/nag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/nag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/nag.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/nag.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/popup.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/progress.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/progress.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/progress.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/rail.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/rail.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/rating.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/rating.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/rating.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/reset.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/reveal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/reveal.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/search.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/search.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/segment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/segment.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/shape.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/shape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/shape.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/shape.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/sidebar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/sidebar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/sidebar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/site.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/site.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/site.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/state.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/statistic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/statistic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/step.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/step.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/sticky.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/sticky.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/sticky.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/tab.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/tab.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/tab.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/transition.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/transition.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/transition.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/video.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/video.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/visibility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/visibility.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/visit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/components/visit.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/semantic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/semantic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/semantic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/semantic.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/basic/assets/fonts/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/default/assets/fonts/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/dist/themes/github/assets/fonts/octicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/js/jquery-2.2.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gengi/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/V1.iml" afterPath="$PROJECT_DIR$/.idea/V1.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Svor.php" afterPath="$PROJECT_DIR$/Svor.php" />
     </list>
     <ignored path="V1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,48 +183,50 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="V1" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="svor.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/svor.php">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gengi/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32946634">
-              <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.2735632">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="order.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order.json">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gengi/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
               <folding>
-                <marker date="1453289539580" expanded="true" signature="0:230" placeholder="{...}" />
-                <marker date="1453289539580" expanded="true" signature="14:228" placeholder="[...]" />
-                <marker date="1453289539580" expanded="true" signature="20:224" placeholder="{&quot;crust type&quot;: &quot;original&quot;...}" />
-                <marker date="1453289539580" expanded="true" signature="153:218" placeholder="{&quot;name&quot;: &quot;Jón Jónsson&quot;...}" />
+                <element signature="e#0#45#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="order.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6153846">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,6 +238,9 @@
         <option value="$PROJECT_DIR$/order.json" />
         <option value="$PROJECT_DIR$/order.xml" />
         <option value="$PROJECT_DIR$/svor.php" />
+        <option value="$PROJECT_DIR$/Gengi/script.js" />
+        <option value="$PROJECT_DIR$/Gengi/index.html" />
+        <option value="$PROJECT_DIR$/Gengi/js/script.js" />
       </list>
     </option>
   </component>
@@ -91,12 +256,12 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP_I_HAVE_NO_IDEA" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1688" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -197,7 +362,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -213,25 +377,54 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="V1" />
+              <option name="myItemId" value="VEF3A_V1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="js.eslint.nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/php-5.6.17-nts-Win32-VC11-x64/php.exe" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="293" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="293" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="293" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="967" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="293" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="292" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="293" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="968" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Valdi1212\PhpstormProjects\VEF3A_V1\Gengi\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Valdi1212\PhpstormProjects\VEF3A_V1\Gengi" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -259,6 +452,18 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -274,22 +479,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1688" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20595238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43283582" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39867842" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995633" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -308,12 +514,70 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Uploading finished product(hopefully)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploading finished product(hopefully)" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/svor.php">
+    <entry file="file://$PROJECT_DIR$/Svor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#3276#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Svor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#3276#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Svor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.576923">
+          <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+          <folding>
+            <element signature="e#6#3276#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gengi/dist/themes/default/assets/fonts/icons.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -329,23 +593,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/order.json">
+    <entry file="file://$PROJECT_DIR$/Gengi/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
           <folding>
-            <marker date="1453289539580" expanded="true" signature="0:230" placeholder="{...}" />
-            <marker date="1453289539580" expanded="true" signature="14:228" placeholder="[...]" />
-            <marker date="1453289539580" expanded="true" signature="20:224" placeholder="{&quot;crust type&quot;: &quot;original&quot;...}" />
-            <marker date="1453289539580" expanded="true" signature="153:218" placeholder="{&quot;name&quot;: &quot;Jón Jónsson&quot;...}" />
+            <element signature="e#0#45#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/svor.php">
+    <entry file="file://$PROJECT_DIR$/Gengi/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32946634">
-          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.2735632">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
