@@ -1,0 +1,13 @@
+{
+  "orders": [
+    {
+      "crust type": "original",
+      "toppings": ["cheese", "peppperoni", "garlic"],
+      "status": "cooking",
+      "customer": {
+        "name": "Jón Jónsson",
+        "phone": 5812345
+      }
+    }
+  ]
+}

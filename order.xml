@@ -1,0 +1,15 @@
+<orders>
+    <order>
+        <crust-type>original</crust-type>
+        <toppings>
+            <topping>cheese</topping>
+            <topping>pepperoni</topping>
+            <topping>garlic</topping>
+        </toppings>
+        <status>cooking</status>
+        <customer>
+            <name>Jón Jónsson</name>
+            <phone>5812345</phone>
+        </customer>
+    </order>
+</orders>
